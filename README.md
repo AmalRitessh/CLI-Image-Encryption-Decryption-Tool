@@ -54,3 +54,8 @@ python3 ImgVault.py -h
 ```bash
 python3 ImgVault.py --help
 ```
+
+## Example Output
+| Original Image | Encrypted Image | Decrypted Image |
+| --- | --- | --- |
+| <img alt="Original" width="280" src="https://github.com/AmalRitessh/ImgVault/blob/main/examples/cat.jpg"> | <img alt="Encrypted" width="280" src="https://github.com/AmalRitessh/ImgVault/blob/main/examples/image_enc.png"> | <img alt="Decrypted" width="280" src="https://github.com/AmalRitessh/ImgVault/blob/main/examples/image_dec.png"> |
