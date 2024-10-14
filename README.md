@@ -1,4 +1,4 @@
-# Simple Image Encryption / Decryption Tool
+# CLI Image Encryption / Decryption Tool
 
 ## Overview
 
@@ -8,7 +8,7 @@ ImgVault - Image Encryption and Decryption Tool, is designed to securely encrypt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AmalRitessh/ImgVault.git
+git clone https://github.com/AmalRitessh/CLI-Image-Encryption-Decryption-Tool.git
 ```
 2. Navigate to the project directory:
 ```bash
